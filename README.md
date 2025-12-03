@@ -1,10 +1,10 @@
 <div align=center>
 
-<img src="public/media/logo.png" width="80" alt="Lunaar Lite Logo" align="center">
+<img src="media/logo.png" width="80" alt="Lunaar Lite Logo" align="center">
 
 # Lunaar Lite
 
-<img src="https://api.microlink.io/?url=https%3A%2F%2Flite.lunaar.org&screenshot=true&embed=screenshot.url" width="600" alt="Lunaar Lite Site Screenshot">
+<img src="image.png" width="600" alt="Lunaar Lite Site Screenshot">
 
 A lite version of the Lunaar Site featuring a modern design with over 800+ games.
 
